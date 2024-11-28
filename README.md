@@ -1,0 +1,1 @@
+# comp_lingv_laba2
